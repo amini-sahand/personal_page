@@ -1,11 +1,24 @@
 # Personal Page
 
+very brief 2-3 sentence about me
 
-## Education
-- Ph.D., Molecular Biology
-- M.S., Agricultural Biotechnology
-- B.S., Industrial Engineering
+### files to upload: my_picture, CV
+### links to create: google scholar, repositories & projects on Github
 
-## Research
+## Contact Information
+- Work address
+- Institutional email
+- Personal email
 
+## About Me
+- Education
+- Work experiences
+- Current position
 
+## Skills
+- Programming: R, python, ...
+- Technology: bash, jupyter, ...
+
+## Work & Research Interests
+
+## Interests
