@@ -6,6 +6,7 @@ very brief 2-3 sentence about me
 
 ### files to upload: my_picture, CV
 ### links to create: google scholar, repositories & projects on Github
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=LNzh6TwAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Contact Information
 - Work address
