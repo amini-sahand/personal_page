@@ -1,3 +1,5 @@
+### THIS PAGE IS UNDER CONSTRUCTION
+
 # Personal Page
 
 very brief 2-3 sentence about me
@@ -19,6 +21,6 @@ very brief 2-3 sentence about me
 - Programming: R, python, ...
 - Technology: bash, jupyter, ...
 
-## Work & Research Interests
+## Research Projects
 
-## Interests
+## Work & Research Interests
