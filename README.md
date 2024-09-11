@@ -9,7 +9,7 @@ very brief 2-3 sentence about me
 
 
 <a href="https://scholar.google.com/citations?hl=en&user=LNzh6TwAAAAJ&view_op=list_works&sortby=pubdate">
-  <img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-1024x1024-052lrrku.png" alt="Google Scholar" width="30"/>
+  <img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-1024x1024-052lrrku.png" alt="Google Scholar" width="40"/>
 </a>
 
 ## Contact Information
