@@ -3,3 +3,12 @@ logo: Sahand_Bond LSC.jpg
 description: In this webpage, I write about my research and interests.
 show_downloads: false
 theme: jekyll-theme-minimal
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Contact"
+    url: "/contact/"
