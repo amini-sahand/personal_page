@@ -5,11 +5,11 @@
 very brief 2-3 sentence about me
 
 ### files to upload: my_picture, CV
-### links to create: google scholar, repositories & projects on Github
+### links to add:  repositories & projects on Github
 
 
 <a href="https://scholar.google.com/citations?hl=en&user=LNzh6TwAAAAJ&view_op=list_works&sortby=pubdate">
-  <img src="https://static-00.iconduck.com/assets.00/google-scholar-icon-1024x1024-052lrrku.png" alt="Google Scholar" width="40"/>
+  <img src="https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb2/Roggatz/Logos/LogoGoogle.jpg" alt="Google Scholar" width="40"/>
 </a>
 
 ## Contact Information
