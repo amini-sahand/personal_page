@@ -1,5 +1,5 @@
 title: Sahand Amini
 logo: Sahand_Bond LSC.jpg
-#description:
-show_downloads: false
+description: In this webpage, I write about my research and my interests.
+show_downloads: true
 theme: jekyll-theme-minimal
