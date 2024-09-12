@@ -9,7 +9,7 @@ very brief 2-3 sentence about me
 
 
 <a href="https://scholar.google.com/citations?hl=en&user=LNzh6TwAAAAJ&view_op=list_works&sortby=pubdate">
-  <img src="https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb2/Roggatz/Logos/LogoGoogle.jpg" alt="Google Scholar" width="40"/>
+  <img src="https://www.uni-bremen.de/fileadmin/user_upload/fachbereiche/fb2/Roggatz/Logos/LogoGoogle.jpg" alt="Google Scholar" width="70"/>
 </a>
 
 ## Contact Information
