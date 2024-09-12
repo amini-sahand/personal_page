@@ -1,7 +1,7 @@
 # Site settings
-title: Sahand Amini
-logo: Sahand_Bond LSC.jpg
-description: My Personal Webpage
+title: Sahand Amini, PhD (he/him)
+#logo: Sahand_Bond LSC.jpg
+#description: My Personal Webpage
 #baseurl: ""  # The subpath of your site, e.g. /blog/
 url: "https://amini-sahand.github.io/personal_page/"  # Your website URL
 
