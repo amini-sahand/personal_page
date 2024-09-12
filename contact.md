@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-# About Me
+# Contact Me
 This is the contact page.
