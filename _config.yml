@@ -1,8 +1,11 @@
+# Site settings
 title: Sahand Amini
 logo: Sahand_Bond LSC.jpg
-description: In this webpage, I write about my research and interests.
-show_downloads: false
-#theme: jekyll-theme-minimal
+description: My Personal Webpage
+#baseurl: ""  # The subpath of your site, e.g. /blog/
+url: "https://amini-sahand.github.io/personal_page/"  # Your website URL
+
+# Navigation settings
 navigation:
   - title: "Home"
     url: "/"
@@ -12,3 +15,19 @@ navigation:
     url: "/research/"
   - title: "Contact"
     url: "/contact/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Disable any default theme
+theme: null
+
+
+
+
+#title: Sahand Amini
+#logo: Sahand_Bond LSC.jpg
+#description: In this webpage, I write about my research and interests.
+#show_downloads: false
+#theme: jekyll-theme-minimal
