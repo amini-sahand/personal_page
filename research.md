@@ -4,5 +4,5 @@ title: Research
 permalink: /research/
 ---
 
-# About Me
+# My Research Interests and projects
 This is the research page.
