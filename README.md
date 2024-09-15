@@ -13,14 +13,7 @@ very brief 2-3 sentence about me
 </a>
 
 
-## About Me
-- Education
-- Work experiences
-- Current position
 
-## Skills
-- Programming: R, python, ...
-- Technology: bash, jupyter, ...
 
 ## Research Projects
 
