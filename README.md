@@ -12,10 +12,6 @@ very brief 2-3 sentence about me
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png" alt="Google Scholar" width="50"/>
 </a>
 
-## Contact Information
-- Work address
-- Institutional email
-- Personal email
 
 ## About Me
 - Education
