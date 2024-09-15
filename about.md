@@ -4,5 +4,12 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-This is the about page.
+# About me
+
+- Education
+- Work experiences
+- Current position
+
+## Skills
+- Programming: R, python, ...
+- Technology: bash, jupyter, ...
